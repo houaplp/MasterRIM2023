@@ -1,4 +1,6 @@
-//  elkjgldkjflgk jdgf
+
+// pour commencer
+
 window.onload = init;
 let ctx; // global audio context
 
