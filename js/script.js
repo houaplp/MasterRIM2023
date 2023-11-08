@@ -1,4 +1,4 @@
-// pour commencer à travailler
+// pour commencer à travailler etc...
 window.onload = init;
 let ctx; // global audio context
 
