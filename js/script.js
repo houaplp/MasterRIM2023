@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-
-// pour commencer
-
-=======
 // pour commencer à travailler
->>>>>>> 3e1abda (first commit)
 window.onload = init;
 let ctx; // global audio context
 
